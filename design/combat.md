@@ -14,11 +14,9 @@ A good turn should feel like:
 4. Trigger effects and synergies.
 5. Watch the character perform the actions.
 6. Resolve the enemy turn.
-7. Adapt the deck and strategy.
+7. Adapt the build.
 
 ## Core systems
-
-The current foundation includes:
 
 - player HP
 - Energy
@@ -26,7 +24,9 @@ The current foundation includes:
 - hand
 - discard pile
 - card costs
-- attacks / defensive actions / utility actions
+- attacks
+- defensive actions
+- utility actions
 - enemy intent
 - turns
 - rewards

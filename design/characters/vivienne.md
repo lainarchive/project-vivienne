@@ -21,9 +21,7 @@ Core traits:
 - enjoys skilled opponents
 - values style and precision
 
-She doesn't need long speeches.
-
-Her personality should come through in short reactions and confident observations.
+Her dialogue should be short and memorable rather than exposition-heavy.
 
 Example tone:
 
@@ -53,7 +51,7 @@ Current direction:
 - distinctive parasol
 - dramatic gothic silhouette
 
-The parasol is a signature visual element rather than her normal combat focus.
+The parasol is a signature visual element and a major part of her ultimate presentation.
 
 ## Combat identity
 
@@ -87,4 +85,3 @@ Exact card, numbers, and effects are TBD.
 Vivienne should be recognizable from her silhouette and personality alone.
 
 She should also establish the game's overall standard for character presentation without defining every character as a vampire clone.
-
