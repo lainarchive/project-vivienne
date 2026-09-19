@@ -1,8 +1,8 @@
 # project-vivienne
 
-vampires, swords, cards, we ball.
+vampires, swords, cards, and uhh other stuff.
 
-A combat deckbuilder roguelike I'm cooking up. The name isn't locked yet.
+A combat deckbuilder roguelike, the name isn't locked yet don't worry.
 
 ## What it is
 
